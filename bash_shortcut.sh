@@ -1,0 +1,7 @@
+alias train="python train.py"
+alias test="python evaluate.py"
+alias ga="git add"
+alias gc="git commit"
+alias gps="git push"
+alias gpl="git pull"
+export PROJ_DIR="feyoe:~/Documents/Projects/NQGBaseline/"
